@@ -6,8 +6,6 @@ author: josh
 meta: "Springfield"
 ---
 
-
-
 1. Task Management Plugin 확인
     1. Preference -> Plugins에서 Task Management 검색 후 체크 확인, 없다면 설치
 
